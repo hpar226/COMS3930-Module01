@@ -1,4 +1,4 @@
-README.txt
+README.md
 
 
 Required mats:  1 window with blinds, 1 Raspberry pi, 1 LED module, 1 24 inch monitor, 3 f-f wires, 
